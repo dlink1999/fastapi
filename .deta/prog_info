@@ -1,0 +1,1 @@
+{"id":"aad99a72-b597-49f9-a5a0-52068ccd10a9","space":22411,"runtime":"python3.9","name":"test1","path":"6vvif8","project":"c0z76qgr","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","python-multipart","deta","pandas","numpy","jinja2"],"envs":null,"public":true,"log_level":"debug","cron":""}

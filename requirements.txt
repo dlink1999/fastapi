@@ -1,0 +1,6 @@
+fastapi
+python-multipart
+deta
+pandas
+numpy
+jinja2

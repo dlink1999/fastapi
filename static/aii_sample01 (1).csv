@@ -1,0 +1,6 @@
+﻿證型,病症一,舌診,脈診,疾病,症狀二,治法,方劑,組成,sym_all,sym_cnt,match_cnt,match_ratio
+TYPE1,"SYMP00,SYMP02,SYMP04",舌淡、苔薄,脈細數,驚悸,"SYMP01,SYMP04,SYMP07,SYMP08",治宜養心益氣、安神定悸,1. 養心湯(《證治準繩》)2. 歸脾湯(《婦人良方》),,,6,,
+TYPE1,"SYMP01,SYMP03,SYMP06,SYMP05",舌淡、苔薄,脈細弱、脈結代、脈遲,不寐,"SYMP02,SYMP06,SYMP08,SYMP09",治當養心安神,安神定志丸(《醫學心悟》) ,,,7,,
+TYPE2,"SYMP03,SYMP04,SYMP06,SYMP08",舌淡、苔薄,脈弱,胸痹,"SYMP00,SYMP03,SYMP06",治宜益氣通陽宣痹,1. 人參湯(《金匱要略》) 2. 生脈散(《內外傷辨惑論》),,,5,,
+TYPE2,"SYMP03,SYMP01,SYMP04,SYMP07",舌淡、舌紫暗胖嫩、,脈細數、脈結代,癲證,"SYMP01,SYMP05,SYMP07",治當寧心安神,1. 辰砂妙香散(《和劑局方》) 2. 甘麥大棗湯(《金匱要略》),,,5,,
+TYPE3,"SYMP00,SYMP04,SYMP06,SYMP03,SYMP07",舌質淡,脈數,虛勞,"SYMP02,SYMP08,SYMP03",治以補益心氣,十全大補湯(《和劑局方》),,,7,,
